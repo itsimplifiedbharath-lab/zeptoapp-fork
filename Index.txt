@@ -1,1 +1,7 @@
 This is index page
+
+This index is not good
+
+Updated one
+====================
+<h1> This is home page </h1>
